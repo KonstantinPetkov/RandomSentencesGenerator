@@ -24,4 +24,4 @@ while True:
 
     print(f"{random_name} from {random_place} {random_adverb} {random_verb} {random_noun} {random_detail}")
     print("Click [enter] to generate a new one.")
-    input()
+    command = input()
